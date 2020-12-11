@@ -1,13 +1,13 @@
-package com.lll.demo;
+package com.lll.websocket;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class LllWebsocketApplication {
+public class WebsocketApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(LllWebsocketApplication.class, args);
+		SpringApplication.run(WebsocketApplication.class, args);
 	}
 
 }
